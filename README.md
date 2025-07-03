@@ -5,7 +5,7 @@ This project demonstrates how to load, process, and analyze transaction data fro
 ## Project Structure
 
 ```
-week7/
+
 │
 ├── main.py
 ├── requirements.txt
