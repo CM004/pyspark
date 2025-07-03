@@ -1,0 +1,4 @@
+transaction_id,customer_id,product_id,channel,price,campaign_id
+1,1001,2001,web,19.99,cmp1
+2,1002,2002,web,29.99,cmp2
+3,1001,2003,web,15.00,cmp1 

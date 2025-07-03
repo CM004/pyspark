@@ -1,0 +1,5 @@
+venv/
+spark-warehouse/
+*.pyc
+__pycache__/
+.DS_Store

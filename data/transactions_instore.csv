@@ -1,0 +1,4 @@
+transaction_id,customer_id,product_id,channel,price,campaign_id
+7,1005,2001,in-store,19.99,cmp1
+8,1001,2002,in-store,29.99,cmp2
+9,1003,2003,in-store,15.00,cmp3 
