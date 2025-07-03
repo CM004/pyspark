@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Transaction Data Analysis Project (Local PySpark Version)
 
 This project demonstrates how to load, process, and analyze transaction data from multiple channels (web, mobile, in-store) using PySpark and Delta Lake, all on your local machine. No Azure or Databricks required!
@@ -57,3 +58,6 @@ python main.py
 ## References
 - [PySpark Documentation](https://spark.apache.org/docs/latest/api/python/)
 - [Delta Lake Documentation](https://delta.io/) 
+=======
+# pyspark
+>>>>>>> b2ac3eb6bc051620d3276d575bbef1cb9bfe985f
